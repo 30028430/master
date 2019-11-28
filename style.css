@@ -1,0 +1,46 @@
+.header {
+    background-color: orange;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+  }
+  
+  .content-image {
+    float: left;
+    padding: 20px;
+  }
+  
+  .container-float {
+    float: left;
+    width: 50%;
+    
+    border: 1px solid #222;
+    box-sizing: border-box;
+  }
+  
+  .containers {
+    clear: both;
+    padding: 20px;
+  }
+  
+  .size {
+    width:200px; 
+    height: 300px;
+  }
+  
+  .divs {
+    clear: both;
+    margin: 20px auto;
+  }
+  
+  .red {
+    background:red; 
+  }
+  
+  .green {
+    background:green; 
+  }
+  
+  .blue {
+    background:blue; 
+  }
